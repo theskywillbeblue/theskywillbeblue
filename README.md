@@ -3,4 +3,4 @@
 
 🔭 I’m currently a Northcoders student
 
-🌱 I’m currently learning Javascript
+🌱 I’m currently learning JavaScript
